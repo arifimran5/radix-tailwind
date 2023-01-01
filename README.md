@@ -1,3 +1,7 @@
+component status checklist -
+
 - [x] Dropdown
 - [x] Dialog
-- [ ] Contact the media
+- [ ] Radio Group
+- [ ] Checkbox
+- [ ] Toast
