@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .wrapper {
+    @apply mt-3 first:mt-0;
+  }
+  .heading {
+    @apply mb-3 text-2xl font-bold;
+  }
+  .dropdownItem {
+    @apply h-8 px-1 pl-4 transition-all outline-none cursor-pointer hover:pl-5;
+  }
+}
