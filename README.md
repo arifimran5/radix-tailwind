@@ -2,6 +2,6 @@ component status checklist -
 
 - [x] Dropdown
 - [x] Dialog
-- [ ] Radio Group
+- [x] Radio Group
 - [ ] Checkbox
 - [ ] Toast

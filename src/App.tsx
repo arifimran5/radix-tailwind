@@ -1,5 +1,6 @@
 import Dropdown from './components/Dropdown';
 import Dialog from './components/Dialog';
+import RadioGroup from './components/RadioGroup';
 
 function App() {
   return (
@@ -12,6 +13,10 @@ function App() {
         <div className='wrapper'>
           <h1 className='heading'>2. Dialog</h1>
           <Dialog />
+        </div>
+        <div className='wrapper'>
+          <h1 className='heading'>3. Radio Group</h1>
+          <RadioGroup />
         </div>
       </div>
     </main>
